@@ -3,4 +3,4 @@
 
 This software is for stuff exchanging with basic functions like adding stuffs, deleting stuffs, etc.
 
-Just press the corresponding number to use these functions.
+Just press the corresponding number to use these functions. The **stuffdata** records several examples for tests.
